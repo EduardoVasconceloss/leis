@@ -2166,3 +2166,9 @@ ROOT repetiu88 testes do perfil006/promotor001, replay integral63/63, dry-run e 
 ### 2026-10-28 — diferença entre cartão ALETO e PDF da Lei1.354/2002
 
 ROOT conferiu o overlay de uma observação atribuída: a ementa literal do cartão oficial informa revogação pela Lei1.719/2006, enquanto o PDF integral capturado não contém essa nota. Texto do catálogo reextraído da fonte HTML congelada e provas preservadas. Dry-run e aplicação por preimagem com backup/journal passaram. ROOT comprovou que todo o cabeçalho anterior e o corpo/H1 permanecem byte idênticos: somente observacao_edicao foi acrescentada. Situação/revogada continuam null; não se inferiu estado jurídico atual nem se alterou o PDF. Zero normas novas; metas preservadas.
+
+### 2026-10-28 — 352 normas municipais com baseline de36.293 documentos
+
+ROOT repetiu replayV3 integral352/352 no overlay atualizado, conferiu SHA/tamanho de3.024 artefatos e repetiu dedup por URL/IBGE/rota/tipo/número/ano sem colisões. Baseline efetivo tem36.293 canônicos: todos os blobs foram lidos integralmente por OID para conferir tamanho, SHA e cabeçalho completo, conjunto exato do HEAD e delta municipal vazio. Zero reservas acrescentadas. Os seis controles de publicação do pacote anterior omitidos do overlay foram preservados adicionalmente pelo ROOT; fontes e candidatos compartilhados não mudaram. Recibo ROOT identifica explicitamente baseline/confronto efetivos, mantendo campos históricos dos manifestos anteriores intactos. Fontes HTML/API, V3 por caracteres/números/tachados, CSS/glifos, tabelas e exportações preservados. Somente352 novos canônicos entram; componentes futuros não são contados. Vigência/CSS externo não certificados e metas preservadas.
+
+Verificação final do índice: formato sem erros/avisos; 6.324 quebras de exatamente dois espaços e704 finais vazios comprovados por SHA em corpos, transcrições e exportações preservados. Nenhuma outra classe de whitespace dispensada.
