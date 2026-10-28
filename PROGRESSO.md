@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 28/10/2026 13:58:24 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 28/10/2026 14:02:24 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.196.808 documentos · 1.088.203 / ~11.768.799 nas séries com meta (9.2%) · 9.095 sem meta**
+**1.197.482 documentos · 1.088.877 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,7 +14,7 @@ Há 7.630 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-485.098 documentos · 478.765 / ~574.766 nas séries com meta (83.3%) · 0 sem meta
+485.772 documentos · 479.439 / ~574.766 nas séries com meta (83.4%) · 0 sem meta
 
 ### Constituição Federal
 
@@ -53,11 +53,11 @@ Planalto, Senado, Câmara e assembleias.
 
 ### Decretos do Executivo federal
 
-115.968 / ~153.657 documentos (75.5%)
+116.642 / ~153.657 documentos (75.9%)
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 101.438 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
+| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 102.112 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
 | ✅ | Decretos não numerados | 14.510 | 14.510 | `federal/decretos-nao-numerados` | Planalto |
 | ✅ | Regulamentos consolidados (RIR, RIPI, Aduaneiro, RPS, PAF) | 20 | 20 | `federal/regulamentos` | Planalto |
 
@@ -337,5 +337,5 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
+| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
