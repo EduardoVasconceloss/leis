@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 28/10/2026 16:18:08 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 28/10/2026 16:25:59 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.200.288 documentos · 1.090.181 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
+**1.201.847 documentos · 1.090.389 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-674.465 documentos · 573.233 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
+676.024 documentos · 573.441 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
@@ -192,12 +192,12 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — educação e cultura
 
-19.830 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 0 sem meta
+21.140 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | 🟦 | Conselho Nacional de Educação: resoluções e pareceres | 264 | 1.500 | `reguladores/cne` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério da Educação: portarias | 8.117 | 4.000 | `reguladores/mec` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério da Educação: portarias | 9.010 | 4.000 | `reguladores/mec` | Diário Oficial da União (in.gov.br) |
 | 🟦 | INEP: portarias e instruções normativas | 816 | 1.200 | `reguladores/inep` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CAPES: instruções normativas e portarias | 398 | 1.000 | `reguladores/capes` | Diário Oficial da União (in.gov.br) |
 | 🟦 | ANCINE: instruções normativas | 353 | 500 | `reguladores/ancine` | Diário Oficial da União (in.gov.br) |
@@ -205,7 +205,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ✅ | Ministério da Cultura | 4.123 | 1.200 | `reguladores/cultura` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Esporte | 714 | 400 | `reguladores/esporte` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Turismo | 779 | 600 | `reguladores/turismo` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério da Ciência, Tecnologia e Inovação | 3.732 | 1.500 | `reguladores/mcti` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério da Ciência, Tecnologia e Inovação | 4.149 | 1.500 | `reguladores/mcti` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — justiça e controle
 
@@ -233,12 +233,12 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — direitos e desenvolvimento social
 
-5.111 documentos · 3.278 / ~5.400 nas séries com meta (60.7%) · 516 sem meta
+5.360 documentos · 3.486 / ~5.400 nas séries com meta (64.6%) · 516 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Ministério do Desenvolvimento e Assistência Social | 913 | 2.500 | `reguladores/mds` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério dos Direitos Humanos e da Cidadania | 906 | 800 | `reguladores/mdh` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Ministério do Desenvolvimento e Assistência Social | 1.121 | 2.500 | `reguladores/mds` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério dos Direitos Humanos e da Cidadania | 947 | 800 | `reguladores/mdh` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério das Mulheres | 65 | 300 | `reguladores/mulheres` | Diário Oficial da União (in.gov.br) |
 | — | Ministério da Mulher, da Família e dos Direitos Humanos (denominação histórica) | 516 | desconhecida | `reguladores/ministerio-da-mulher-da-familia-e-dos-di` | Diário Oficial da União (órgão literal da publicação) |
 | 🟦 | Ministério da Igualdade Racial | 61 | 300 | `reguladores/igualdade-racial` | Diário Oficial da União (in.gov.br) |
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
-| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
+| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
+| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
