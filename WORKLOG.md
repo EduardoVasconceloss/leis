@@ -2214,3 +2214,9 @@ ROOT repetiu97 testes, replay integral44/44, dry-run e aplicação exclusiva com
 ### 2026-10-28 — 12 leis do Tocantins com edição anotada explícita
 
 ROOT repetiu100 testes, replay integral12/12, dry-run e aplicação exclusiva com backup/journal. São9 leis ordinárias e3 complementares. ROOT viu9 páginas de4 atos e conferiu PDF/cache/SHA: Lei1155 conserva notas que substituem arts1–7, sem reconstruir a redação original suprimida;1147 mantém arts1/3 e notas no art2; LC78 conserva art2-A e nota da LC82; LC103 inteira5p mantém citações/pontilhados e erro de numeração VI repetido na fonte. Corpo integral preformatado representa a edição efetivamente capturada, sem certificar íntegra original ou vigência atual. Metadados situação/revogada conservadores, sem inferir revogação integral a partir de notas ou tachados. Metas preservadas.
+
+### 2026-10-28 — agregado municipal de579 novas normas
+
+ROOT repetiu V3 integral579/579 e conferiu5.076 artefatos por SHA/tamanho. Baseline efetivo38181 canônicos HEAD, todos lidos integralmente por OID/SHA/tamanho/cabeçalho, com conjunto exato. As reservas históricas, inclusive1.010+526 já publicados, somam zero novas entradas no baseline; reconciliação explícita e sem reescrever manifestos anteriores. Dedup atual sem colisões e579 destinos ausentes. Componentes82+199+196+102 não publicados separadamente. Fontes HTML/API,26 tabelas, CSS/glifos e exportação preservados. Não se certifica vigência ou CSS externo, nem se contam lotes futuros. Metas inalteradas.
+
+Índice579: zero erros/avisos de formato; 27748 quebras de exatamente dois espaços e 1158 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
