@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 28/10/2026 16:08:52 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 28/10/2026 16:18:08 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.198.788 documentos · 1.090.181 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
+**1.200.288 documentos · 1.090.181 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-672.965 documentos · 573.233 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
+674.465 documentos · 573.233 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
@@ -145,7 +145,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — meio ambiente
 
-15.080 documentos · 5.306 / ~10.720 nas séries com meta (49.5%) · 0 sem meta
+15.262 documentos · 5.306 / ~10.720 nas séries com meta (49.5%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -154,7 +154,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ✅ | ICMBio: instruções normativas | 706 | 400 | `reguladores/icmbio` | Diário Oficial da União (in.gov.br) |
 | 🟦 | ANA e CNRH: resoluções | 264 | 3.000 | `reguladores/ana` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Serviço Florestal Brasileiro: instruções normativas | 42 | 200 | `reguladores/sfb` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério da Agricultura: instruções normativas | 12.148 | 3.000 | `reguladores/mapa` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério da Agricultura: instruções normativas | 12.330 | 3.000 | `reguladores/mapa` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério do Meio Ambiente: demais atos normativos | 599 | 1.500 | `reguladores/mma` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Pesca e Aquicultura | 920 | 600 | `reguladores/pesca` | Diário Oficial da União (in.gov.br) |
 
@@ -192,7 +192,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — educação e cultura
 
-18.512 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 0 sem meta
+19.830 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -205,7 +205,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ✅ | Ministério da Cultura | 4.123 | 1.200 | `reguladores/cultura` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Esporte | 714 | 400 | `reguladores/esporte` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Turismo | 779 | 600 | `reguladores/turismo` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério da Ciência, Tecnologia e Inovação | 2.414 | 1.500 | `reguladores/mcti` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério da Ciência, Tecnologia e Inovação | 3.732 | 1.500 | `reguladores/mcti` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — justiça e controle
 
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
-| `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
-| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
+| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
+| `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
