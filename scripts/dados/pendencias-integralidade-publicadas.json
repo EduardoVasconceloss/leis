@@ -37194,41 +37194,6 @@
       }
     },
     {
-      "path": "federal/decretos/1964/dec-53480-1964-01-23.md",
-      "sha256_md": "60b9c427d89bf0df452e33e2ca802b71e0021ad695cb4f1dae364455577ddf2a",
-      "estado": "modelo_proprio_ausente_na_transcricao",
-      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
-      "evidencia": {
-        "manifesto": "federal/_overlay_modelos_proprios_anteriores_20261020_002.json",
-        "sha256_manifesto": "317ab68dcaf4934f2c1e2e07db1a19ca998eaa4f0235a5f0d588b7138743197a",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1964-01-23;53480",
-        "sha256_fonte_html": "3f7274a697b6d30c61a29e737137c09cbd1016adde67c37b4fabebeda5a071d8",
-        "trecho": {
-          "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
-          "remissao": ", cada repreensao correspondera a dois pontos, cada dia de suspensao a tres, e cada destituicao de funcao a dez pontos.\nart. 32. o merecimento do funcionario, na classe a que pertencer, sera apurado semestralmente, atraves do boletim de merecimento, conforme modelo anexo.\nart. 33. as condicoes essenciais de merecimento serao aferidas pelo chefe imediato do funcionario e as condicoes comple",
-          "fecho": "brasilia, em 23 de janeiro de 1964; 143º da independencia e 76º da republica.",
-          "apos_fecho": [
-            "joao goulart",
-            "aberlado jurema",
-            "sylvio borges de souza motta",
-            "jair ribeiro",
-            "joao augusto de araujo castro",
-            "ney galvao",
-            "expedito machado",
-            "oswaldo lima filho",
-            "julio furquim sambaquy",
-            "amaury silva",
-            "anysio botelho",
-            "wilson fadul",
-            "antonio de oliveira brito",
-            "egydio michaelsen",
-            "<<anexos>>"
-          ],
-          "estado": "ausencia_na_transcricao"
-        }
-      }
-    },
-    {
       "path": "federal/decretos/1976/dec-77464-1976-04-20.md",
       "sha256_md": "5b8306fbac1fc7db7834ebd4ee123ebbec84af8ec2d02721f424da808fb84728",
       "estado": "modelo_proprio_ausente_na_transcricao",
