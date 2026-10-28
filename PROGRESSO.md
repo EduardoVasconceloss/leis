@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 28/10/2026 13:20:22 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 28/10/2026 13:30:37 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.189.879 documentos · 1.085.151 / ~11.768.799 nas séries com meta (9.2%) · 8.982 sem meta**
+**1.191.913 documentos · 1.085.356 / ~11.768.799 nas séries com meta (9.2%) · 8.982 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,11 +91,11 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-668.776 documentos · 572.810 / ~861.320 nas séries com meta (66.5%) · 6.553 sem meta
+670.810 documentos · 573.015 / ~861.320 nas séries com meta (66.5%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
-78.659 / ~134.038 documentos (58.7%)
+78.661 / ~134.038 documentos (58.7%)
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -103,18 +103,18 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | CONFAZ: convênios, protocolos e ajustes SINIEF | 1.581 | 12.000 | `reguladores/confaz` | Diário Oficial da União (in.gov.br) e portal oficial CONFAZ |
 | 🟦 | Tesouro Nacional: portarias e instruções | 466 | 2.000 | `reguladores/stn` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Procuradoria-Geral da Fazenda Nacional | 255 | 1.500 | `reguladores/pgfn` | Diário Oficial da União (in.gov.br) |
-| 🟦 | CARF: súmulas e resoluções | 74 | 300 | `reguladores/carf` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CARF: súmulas e resoluções | 76 | 300 | `reguladores/carf` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério da Fazenda: demais atos normativos | 772 | 3.000 | `reguladores/fazenda` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — trânsito e transportes
 
-23.957 documentos · 10.105 / ~12.857 nas séries com meta (78.6%) · 893 sem meta
+24.342 documentos · 10.105 / ~12.857 nas séries com meta (78.6%) · 893 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | 🟦 | CONTRAN: resoluções, deliberações e o Manual Brasileiro de Sinalização | 186 | 1.357 | `reguladores/contran` | Diário Oficial da União (in.gov.br) |
 | ✅ | SENATRAN/DENATRAN: portarias | 1.788 | 1.500 | `reguladores/senatran` | Diário Oficial da União (in.gov.br) |
-| ✅ | ANTT: resoluções | 7.168 | 6.000 | `reguladores/antt` | Diário Oficial da União (in.gov.br) |
+| ✅ | ANTT: resoluções | 7.553 | 6.000 | `reguladores/antt` | Diário Oficial da União (in.gov.br) |
 | ✅ | ANTAQ: resoluções | 3.088 | 500 | `reguladores/antaq` | Diário Oficial da União (in.gov.br) |
 | ✅ | ANAC: resoluções e RBAC | 9.615 | 700 | `reguladores/anac` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério dos Transportes: demais atos normativos | 919 | 2.000 | `reguladores/transportes` | Diário Oficial da União (in.gov.br) |
@@ -123,13 +123,13 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — saúde
 
-50.673 documentos · 28.283 / ~34.400 nas séries com meta (82.2%) · 0 sem meta
+51.684 documentos · 28.305 / ~34.400 nas séries com meta (82.3%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| ✅ | ANVISA: RDC, instruções normativas e portarias | 25.255 | 3.100 | `reguladores/anvisa` | Diário Oficial da União (in.gov.br) |
+| ✅ | ANVISA: RDC, instruções normativas e portarias | 26.244 | 3.100 | `reguladores/anvisa` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério da Saúde: portarias GM/MS e consolidadas | 24.394 | 30.000 | `reguladores/ms` | Diário Oficial da União (in.gov.br) |
-| 🟦 | Conselho Nacional de Saúde: resoluções | 189 | 700 | `reguladores/cns` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Conselho Nacional de Saúde: resoluções | 211 | 700 | `reguladores/cns` | Diário Oficial da União (in.gov.br) |
 | ✅ | ANS: resoluções normativas | 835 | 600 | `reguladores/ans` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — trabalho e previdência
@@ -145,11 +145,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — meio ambiente
 
-14.793 documentos · 5.298 / ~10.720 nas séries com meta (49.4%) · 0 sem meta
+14.795 documentos · 5.300 / ~10.720 nas séries com meta (49.4%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | CONAMA: resoluções | 24 | 520 | `reguladores/conama` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CONAMA: resoluções | 26 | 520 | `reguladores/conama` | Diário Oficial da União (in.gov.br) |
 | 🟦 | IBAMA: instruções normativas e portarias | 369 | 1.500 | `reguladores/ibama` | Diário Oficial da União (in.gov.br) |
 | ✅ | ICMBio: instruções normativas | 629 | 400 | `reguladores/icmbio` | Diário Oficial da União (in.gov.br) |
 | 🟦 | ANA e CNRH: resoluções | 264 | 3.000 | `reguladores/ana` | Diário Oficial da União (in.gov.br) |
@@ -160,23 +160,23 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — financeiro
 
-8.500 documentos · 7.163 / ~19.550 nas séries com meta (36.6%) · 0 sem meta
+8.622 documentos · 7.285 / ~19.550 nas séries com meta (37.3%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Banco Central e CMN: resoluções e circulares | 1.727 | 10.200 | `reguladores/bcb` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Banco Central e CMN: resoluções e circulares | 1.838 | 10.200 | `reguladores/bcb` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CVM: instruções e resoluções | 389 | 500 | `reguladores/cvm` | Diário Oficial da União (in.gov.br) |
 | ✅ | SUSEP e CNSP: circulares e resoluções | 2.336 | 1.200 | `reguladores/susep` | Diário Oficial da União (in.gov.br) |
-| 🟦 | CADE: resoluções | 100 | 300 | `reguladores/cade` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CADE: resoluções | 102 | 300 | `reguladores/cade` | Diário Oficial da União (in.gov.br) |
 | 🟦 | COAF: resoluções | 67 | 150 | `reguladores/coaf` | Diário Oficial da União (in.gov.br) |
-| 🟦 | Conselho Federal de Contabilidade: resoluções | 257 | 1.800 | `reguladores/cfc` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Conselho Federal de Contabilidade: resoluções | 266 | 1.800 | `reguladores/cfc` | Diário Oficial da União (in.gov.br) |
 | ✅ | INMETRO: resoluções e instruções | 2.201 | 2.000 | `reguladores/inmetro` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério do Desenvolvimento, Indústria, Comércio e Serviços | 1.285 | 3.000 | `reguladores/mdic` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério do Empreendedorismo e da Microempresa | 138 | 400 | `reguladores/empreendedorismo` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — infraestrutura e energia
 
-25.136 documentos · 5.758 / ~8.000 nas séries com meta (72.0%) · 5.135 sem meta
+25.175 documentos · 5.758 / ~8.000 nas séries com meta (72.0%) · 5.135 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -186,20 +186,20 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | ANM: resoluções (mineração) | 153 | 300 | `reguladores/anm` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério de Minas e Energia, CNPE e CMSE | 1.628 | 1.500 | `reguladores/mme` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério das Comunicações | 8.117 | 800 | `reguladores/comunicacoes` | Diário Oficial da União (in.gov.br) |
-| ✅ | Ministério das Cidades | 841 | 800 | `reguladores/cidades` | Diário Oficial da União (in.gov.br) |
+| ✅ | Ministério das Cidades | 880 | 800 | `reguladores/cidades` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Integração e do Desenvolvimento Regional | 7.557 | 800 | `reguladores/integracao` | Diário Oficial da União (in.gov.br) |
 | — | Ministério do Desenvolvimento Regional (denominação histórica) | 5.135 | desconhecida | `reguladores/ministerio-do-desenvolvimento-regional` | Diário Oficial da União (órgão literal da publicação) |
 
 ### Infralegal — educação e cultura
 
-17.853 documentos · 9.846 / ~12.300 nas séries com meta (80.0%) · 0 sem meta
+17.877 documentos · 9.870 / ~12.300 nas séries com meta (80.2%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Conselho Nacional de Educação: resoluções e pareceres | 257 | 1.500 | `reguladores/cne` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Conselho Nacional de Educação: resoluções e pareceres | 264 | 1.500 | `reguladores/cne` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Educação: portarias | 8.117 | 4.000 | `reguladores/mec` | Diário Oficial da União (in.gov.br) |
 | 🟦 | INEP: portarias e instruções normativas | 755 | 1.200 | `reguladores/inep` | Diário Oficial da União (in.gov.br) |
-| 🟦 | CAPES: instruções normativas e portarias | 381 | 1.000 | `reguladores/capes` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CAPES: instruções normativas e portarias | 398 | 1.000 | `reguladores/capes` | Diário Oficial da União (in.gov.br) |
 | 🟦 | ANCINE: instruções normativas | 353 | 500 | `reguladores/ancine` | Diário Oficial da União (in.gov.br) |
 | ✅ | IPHAN: portarias e instruções normativas | 527 | 400 | `reguladores/iphan` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Cultura | 3.722 | 1.200 | `reguladores/cultura` | Diário Oficial da União (in.gov.br) |
@@ -209,18 +209,18 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — justiça e controle
 
-29.237 documentos · 22.718 / ~27.700 nas séries com meta (82.0%) · 9 sem meta
+29.686 documentos · 22.751 / ~27.700 nas séries com meta (82.1%) · 9 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | ✅ | Ministério da Justiça e Segurança Pública | 5.593 | 3.000 | `reguladores/mj` | Diário Oficial da União (in.gov.br) |
-| 🟦 | Controladoria-Geral da União: instruções normativas e portarias | 431 | 1.200 | `reguladores/cgu` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Controladoria-Geral da União: instruções normativas e portarias | 454 | 1.200 | `reguladores/cgu` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Advocacia-Geral da União: atos normativos | 537 | 1.500 | `reguladores/agu` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério Público da União: resoluções e portarias | 1.780 | 1.200 | `reguladores/mpu` | Diário Oficial da União (in.gov.br) |
-| 🟦 | CNMP: resoluções e recomendações | 213 | 400 | `reguladores/cnmp` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CNMP: resoluções e recomendações | 223 | 400 | `reguladores/cnmp` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Defensoria Pública da União | 228 | 400 | `reguladores/dpu` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Tribunal de Contas da União: instruções normativas e resoluções | 244 | 1.500 | `reguladores/tcu` | Diário Oficial da União (in.gov.br) |
-| ✅ | Conselhos federais de fiscalização profissional (CFM, COFEN, CONFEA/CREA e demais) | 7.743 | 7.000 | `reguladores/conselhos-profissionais` | Diário Oficial da União (in.gov.br) |
+| ✅ | Conselhos federais de fiscalização profissional (CFM, COFEN, CONFEA/CREA e demais) | 8.159 | 7.000 | `reguladores/conselhos-profissionais` | Diário Oficial da União (in.gov.br) |
 | — | Atos em rubricas gerais do DOU (órgão discriminado nos metadados) | 9 | desconhecida | `reguladores/editais-e-avisos`, `reguladores/entidades-de-fiscalizacao-dos-profission` | Diário Oficial da União; rubrica e órgão preservados sem atribuir meta de outra série |
 | ✅ | Presidência da República: atos normativos | 2.062 | 2.000 | `reguladores/presidencia` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério da Gestão e da Inovação em Serviços Públicos | 1.842 | 2.500 | `reguladores/gestao` | Diário Oficial da União (in.gov.br) |
@@ -334,8 +334,8 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
+| `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
