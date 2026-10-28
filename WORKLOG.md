@@ -2184,3 +2184,9 @@ Verificação final do índice: formato1.591 sem erros/avisos;603 hardbreaks de 
 Segunda parte da seleção sucessora de5.769 já aprovada no replay integral ROOT e21 testes. Preflight por OID/SHA confirmou que o delta canônico desde a validação integral consiste exatamente nos1.591 já publicados, sem mudança federal nem remoções/modificações. Os2.034 novos destinos estão ausentes do HEAD e disjuntos; exclusões de71 alertas e80 duplicatas federais permanecem. Fontes e recibos comuns estão no primeiro commit; não há nova captura, alteração de corpo ou certificação de vigência. Metas preservadas.
 
 Índice2034: zero erros/avisos de formato;781 hardbreaks de exatamente dois espaços comprovados por SHA, nenhum final vazio e nenhuma outra classe dispensada.
+
+### 2026-10-28 — terceira parte DOU2017: 2.144 normas
+
+Terceira e última parte da seleção sucessora5.769, aprovada integralmente pelo ROOT em21 testes e dois motores/HTML5. Delta conferido por OID/SHA: os3.625 canônicos acrescentados são exatamente as partes1.591+2.034, sem remoções/modificações nem delta federal. Todos2.144 destinos restantes ausentes e disjuntos. Nenhuma alteração de órgão/corpo/data;71 alertas e80 duplicatas federais continuam fora. Fontes integrais e controles comuns preservados no primeiro commit. Ano2017 com4 erros de coleta: não se declara cobertura anual completa, CSS externo ou vigência. Metas inalteradas.
+
+Índice2144: zero erros/avisos de formato;523 hardbreaks de exatamente dois espaços comprovados por SHA, sem dispensar outra classe.
