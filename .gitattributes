@@ -14,3 +14,6 @@
 /federal/_provas_modelo59595_clbr_20261021_006/*.pdf binary
 
 /federal/_provas_modelo55551_clbr_20261021_007/*.pdf binary
+
+# PDFs oficiais e fixtures de QA: bytes preservados como dados binários.
+/estaduais/TO/_fonte/**/*.pdf binary
