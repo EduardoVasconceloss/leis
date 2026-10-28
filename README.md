@@ -227,7 +227,7 @@ As 1.595 normas cuja data não existe em nenhuma fonte ficam no fim do históric
 
 | UF | Fonte | Texto |
 | --- | --- | --- |
-| — | Planalto | Constituição Federal, texto vigente |
+| — | Planalto | Constituição Federal, texto compilado; edição/data no cabeçalho |
 | Federal | Dados abertos do Senado (índice) + normas.leg.br (texto) | compilado vigente quando existe; senão a publicação original |
 | AC, AL, AM, PB, PI, RO, RR, TO | SAPL das Assembleias (API REST) | PDF anexado, com OCR quando escaneado |
 | AP | e-Legis da Assembleia | texto integral em PDF + Constituição consolidada |
