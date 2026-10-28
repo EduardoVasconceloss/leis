@@ -2126,3 +2126,9 @@ ROOT repetiu 20 testes do perfil PDF002, além dos 15 testes já conferidos do m
 ROOT conferiu hashes e tamanhos dos 16.323 artefatos da entrega e repetiu replay V3 integral 1.966/1.966, sem problemas: caracteres, assinatura numérica, máscara de tachado por caractere, atributos contextuais e matrizes de tabelas nativas. O lote reúne os componentes 1.278 e 688 sem contá-los novamente. O baseline da dedup foi reconciliado integralmente com os 32.407 canônicos municipais atuais: 32.360 blobs idênticos por OID e as 47 antigas reservas agora publicadas nos SHA esperados. Zero colisões do lote contra esse conjunto. Fontes HTML/API completas, recibos, controles CSS/glifos e provas de exportação preservados; não se certifica CSS externo nem vigência. Metas preservadas.
 
 Verificação final do índice: formato sem erros/avisos; 6476 quebras de exatamente dois espaços e 3932 finais vazios comprovados por SHA, incluindo transcrições e exportações brutas preservadas. Nenhuma outra classe de whitespace dispensada.
+
+### 2026-10-28 — 1.831 normas municipais com confronto no HEAD ampliado
+
+ROOT conferiu SHA e tamanho dos 15.379 artefatos e repetiu replay V3 integral 1.831/1.831, sem problemas em caracteres, números, tachado por caractere, atributos contextuais e matrizes de tabelas. Componentes 1.025, 529, 138, 103 e 36 formam este único lote e não são somados novamente. Baseline da dedup reconciliado com 34.373 canônicos municipais atuais: 32.407 blobs anteriores idênticos por OID e 1.966 antigas reservas publicadas exatamente com os SHA esperados. Nenhuma mudança ou remoção adicional, nenhuma colisão dos novos candidatos. Fontes HTML/API completas, controles CSS/glifos, recibos e reprodução preservados. CSS externo e vigência não certificados; metas preservadas.
+
+Verificação final do índice: formato sem erros/avisos; 5252 quebras de exatamente dois espaços e 3662 finais vazios comprovados por SHA nas transcrições/exportações, sem dispensar outra classe.
