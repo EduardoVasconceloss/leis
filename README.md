@@ -92,6 +92,9 @@ Fontes integrais, anexos e recibos necessários para verificar uma inclusão pod
 versionados pontualmente, identificados por origem, captura e SHA-256. Isso preserva a
 edição efetivamente consultada quando a fonte muda ou sua conversão exige revisão.
 
+As auditorias registram hashes das dependências de cada lote. Execute os replays no commit
+que publicou o lote, ou use os módulos legados e mapas de leitura quando disponibilizados.
+
 ---
 
 ## Formato dos arquivos
