@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 28/10/2026 09:23:17 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 28/10/2026 09:24:45 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.173.941 documentos · 1.071.670 / ~11.768.799 nas séries com meta (9.1%) · 7.940 sem meta**
+**1.175.096 documentos · 1.072.825 / ~11.768.799 nas séries com meta (9.1%) · 7.940 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,7 +14,7 @@ Há 7.631 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-479.134 documentos · 472.801 / ~574.766 nas séries com meta (82.3%) · 0 sem meta
+480.289 documentos · 473.956 / ~574.766 nas séries com meta (82.5%) · 0 sem meta
 
 ### Constituição Federal
 
@@ -53,11 +53,11 @@ Planalto, Senado, Câmara e assembleias.
 
 ### Decretos do Executivo federal
 
-112.902 / ~153.657 documentos (73.5%)
+114.057 / ~153.657 documentos (74.2%)
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 98.372 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
+| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 99.527 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
 | ✅ | Decretos não numerados | 14.510 | 14.510 | `federal/decretos-nao-numerados` | Planalto |
 | ✅ | Regulamentos consolidados (RIR, RIPI, Aduaneiro, RPS, PAF) | 20 | 20 | `federal/regulamentos` | Planalto |
 
@@ -334,8 +334,8 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
