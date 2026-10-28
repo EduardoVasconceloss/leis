@@ -58,7 +58,7 @@ dependência externa, gerado por `scripts/estatisticas.py`.
 ## Estrutura
 
 ```
-constituicao.md                      Constituição Federal de 1988 (texto vigente, Planalto)
+constituicao.md                      Constituição Federal de 1988 (texto compilado, Planalto; edição/data no cabeçalho)
 federal/
   leis-ordinarias/AAAA/*.md          Leis federais, de 1822 a hoje
   leis-complementares/AAAA/*.md
