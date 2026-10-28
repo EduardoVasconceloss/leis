@@ -134,6 +134,10 @@ relativo e SHA-256; texto principal e anexos precisam ter identidade e escopo co
 Esses recursos compõem a mesma norma, sem contagem adicional. Uma referência externa
 sem o conteúdo recuperado não resolve uma pendência de integralidade.
 
+No LEGIS/AC, `versao_texto` e `edicao` identificam a transcrição digital do campo
+`body-law` no modo Padrão. Esse modo pode incorporar alterações posteriores; a captura
+não certifica a edição original do DOE ou a redação vigente.
+
 O campo `tipo` usa o vocabulário canônico definido em `CANONICO`, em
 `scripts/comum.py`. O mesmo mapa vale para quem baixa e para `scripts/normalizar.py`, que o reaplica
 ao acervo já gravado — por isso `lei-ordinaria` e `leis-ordinarias`, ou `Lei` e `LEI ORDINARIA`, não
