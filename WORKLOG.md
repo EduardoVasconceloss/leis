@@ -2190,3 +2190,9 @@ Segunda parte da seleção sucessora de5.769 já aprovada no replay integral ROO
 Terceira e última parte da seleção sucessora5.769, aprovada integralmente pelo ROOT em21 testes e dois motores/HTML5. Delta conferido por OID/SHA: os3.625 canônicos acrescentados são exatamente as partes1.591+2.034, sem remoções/modificações nem delta federal. Todos2.144 destinos restantes ausentes e disjuntos. Nenhuma alteração de órgão/corpo/data;71 alertas e80 duplicatas federais continuam fora. Fontes integrais e controles comuns preservados no primeiro commit. Ano2017 com4 erros de coleta: não se declara cobertura anual completa, CSS externo ou vigência. Metas inalteradas.
 
 Índice2144: zero erros/avisos de formato;523 hardbreaks de exatamente dois espaços comprovados por SHA, sem dispensar outra classe.
+
+### 2026-10-28 — agregado municipal de1.010 novas normas
+
+ROOT repetiu V3 integral1.010/1.010 sobre8.535 artefatos, zero problemas. Conferiu conjunto exato36.645 canônicos HEAD e leu todos por OID para validar SHA/tamanho/cabeçalho integral:36.293 da origem e352 anteriormente reservados agora publicados byte idênticos. Dedup repetida por identidade/URL/IBGE/rota sem colisões e1.010 destinos ausentes. Manifestos históricos e fontes HTML/API/CSS/glifos/tachados/exportações preservados; reserva352 reconciliada explicitamente, sem reescrever baseline. Componentes208/182/271/349 não publicados separadamente, lotes526futuros não contados neste commit. Metas preservadas; vigência/CSS externo não certificados.
+
+Índice1.010: zero erros/avisos de formato; 17208 quebras de exatamente dois espaços e 2020 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
