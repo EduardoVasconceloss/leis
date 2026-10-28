@@ -2200,3 +2200,9 @@ ROOT repetiu V3 integral1.010/1.010 sobre8.535 artefatos, zero problemas. Confer
 ### 2026-10-28 — 580 decretos federais com fontes integrais
 
 ROOT repetiu8 regressões de limites e5 testes de segurança, replay portátil integral580/580, dry-run e aplicação exclusiva com backups/intenção/journal. Fontes HTML e respostas API integrais congeladas com CRC/SHA; comparadores CommonMark/GFM/HTML5 e CSS/glifos, identidade e fecho principal controlados. Destinos ausentes por path e número/ano no HEAD;579 representações Markdown e1 HTML. Dos2.000 resultados,1.420 permanecem fora, incluindo62 contextuais finais e demais retenções preservadas. Guard87 ativo sem redução dos gates; notas de ilegível/contexto histórico não reconstruídas. Captura real28/10 e autoria ROOT da aplicação preservadas. Mapas congelados e controles de portabilidade mantidos; metas inalteradas e sem certificação geral de vigência.
+
+### 2026-10-28 — agregado municipal de526 novas normas
+
+ROOT repetiu V3 integral526/526 e conferiu todos4.519 artefatos por SHA/tamanho. Leu integralmente os37.655 canônicos HEAD por OID para conferir SHA/tamanho/cabeçalho e conjunto exato:36.645 existentes na captura do baseline e1.010 anteriormente reservados agora publicados byte idênticos. Dedup atual sem colisões;526 destinos ausentes, disjuntos do agregado1.010. Os componentes241+285 não são publicados separadamente. Fontes HTML/API, CSS/glifos, exportações e prova de tachado preservados; baselines históricos intactos e reconciliação explícita. Demais candidatos futuros não contados. Vigência/CSS externo não certificados; metas inalteradas.
+
+Índice526: zero erros/avisos de formato; 6536 quebras de exatamente dois espaços e 1052 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
